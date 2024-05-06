@@ -63,8 +63,7 @@ endmodule
 
 **RTL LOGIC UP COUNTER**
 
-![Screenshot 2024-05-06 142516](https://github.com/Jeshwanthkumarpayyavula/SYNCHRONOUS-UP-COUNTER/assets/145742402/cd99fef5-1f33-4efa-9cc0-591ab0248131)
-
+![WhatsApp Image 2024-05-06 at 22 45 49_0d02a051](https://github.com/Jeshwanthkumarpayyavula/SYNCHRONOUS-UP-COUNTER/assets/145742402/d3654dd1-81e7-4347-9375-05982245cf58)
 
 
 **TIMING DIAGRAM FOR IP COUNTER**
